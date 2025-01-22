@@ -1,5 +1,5 @@
 # Serialization
-#### project for serializing numbers[] to SCII string
+#### project for serializing numbers[] to ASCII string
 
 
 ### How to use 
